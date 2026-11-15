@@ -1,0 +1,61 @@
+entry_id,date,journal_text,mood_rating,sentiment_label,compound_score
+ENT-101,2026-09-16,Finished implementing the computer vision model today! Very happy with the results.,5,Positive,0.85
+ENT-102,2026-09-17,Feeling overwhelmed by midterms preparation and two assignment deadlines tomorrow.,2,Negative,-0.62
+ENT-103,2026-09-18,Went for an evening walk at the riverfront. Feeling peaceful and relaxed.,4,Positive,0.72
+ENT-104,2026-09-19,"Attended morning database lectures. Standard concepts covered, nothing surprising.",3,Neutral,0.05
+ENT-105,2026-09-20,Bug in the database query took four hours to track down. Frustrated but finally resolved.,2,Negative,-0.45
+ENT-106,2026-09-21,Great hackathon team sync tonight! We finalized our prototype architecture and roles.,5,Positive,0.88
+ENT-107,2026-09-22,Woke up tired today. Need to catch up on sleep this weekend.,2,Negative,-0.35
+ENT-108,2026-09-23,Read two chapters on discrete mathematics. Practiced 10 problem sets.,4,Positive,0.4
+ENT-109,2026-09-24,Anxious about upcoming project viva next Monday. Practicing talking points out loud.,2,Negative,-0.55
+ENT-110,2026-09-25,Cleaned up my GitHub repositories and wrote unit tests for the attendance system.,5,Positive,0.82
+ENT-111,2026-09-26,Rainy day in Ahmedabad. Had hot tea and reviewed algorithm notes quietly.,4,Positive,0.65
+ENT-112,2026-09-27,Group partner did not submit their frontend module on time. Annoying delay.,2,Negative,-0.58
+ENT-113,2026-09-28,Received full marks on the Python data structures practical lab!,5,Positive,0.92
+ENT-114,2026-09-29,Regular college day. Worked on library study assignments for two hours.,3,Neutral,0.1
+ENT-115,2026-09-30,Could not concentrate on coding today. Brain fog and low energy.,1,Negative,-0.7
+ENT-116,2026-10-01,Refactored code to eliminate technical debt. Much cleaner and modular now.,4,Positive,0.6
+ENT-117,2026-10-02,Enjoyed a weekend break with family. Feeling recharged and ready for the week.,5,Positive,0.86
+ENT-118,2026-10-03,"Missed morning bus, arrived late to class. Started the day on the wrong foot.",2,Negative,-0.5
+ENT-119,2026-10-04,Trained a random forest model that achieved 91% accuracy on student test data.,5,Positive,0.9
+ENT-120,2026-10-05,Ordinary study session. Solved 3 LeetCode problems on arrays and hashing.,3,Neutral,0.2
+ENT-121,2026-10-06,Finished implementing the computer vision model today! Very happy with the results.,5,Positive,0.85
+ENT-122,2026-10-07,Feeling overwhelmed by midterms preparation and two assignment deadlines tomorrow.,2,Negative,-0.62
+ENT-123,2026-10-08,Went for an evening walk at the riverfront. Feeling peaceful and relaxed.,4,Positive,0.72
+ENT-124,2026-10-09,"Attended morning database lectures. Standard concepts covered, nothing surprising.",3,Neutral,0.05
+ENT-125,2026-10-10,Bug in the database query took four hours to track down. Frustrated but finally resolved.,2,Negative,-0.45
+ENT-126,2026-10-11,Great hackathon team sync tonight! We finalized our prototype architecture and roles.,5,Positive,0.88
+ENT-127,2026-10-12,Woke up tired today. Need to catch up on sleep this weekend.,2,Negative,-0.35
+ENT-128,2026-10-13,Read two chapters on discrete mathematics. Practiced 10 problem sets.,4,Positive,0.4
+ENT-129,2026-10-14,Anxious about upcoming project viva next Monday. Practicing talking points out loud.,2,Negative,-0.55
+ENT-130,2026-10-15,Cleaned up my GitHub repositories and wrote unit tests for the attendance system.,5,Positive,0.82
+ENT-131,2026-10-16,Rainy day in Ahmedabad. Had hot tea and reviewed algorithm notes quietly.,4,Positive,0.65
+ENT-132,2026-10-17,Group partner did not submit their frontend module on time. Annoying delay.,2,Negative,-0.58
+ENT-133,2026-10-18,Received full marks on the Python data structures practical lab!,5,Positive,0.92
+ENT-134,2026-10-19,Regular college day. Worked on library study assignments for two hours.,3,Neutral,0.1
+ENT-135,2026-10-20,Could not concentrate on coding today. Brain fog and low energy.,1,Negative,-0.7
+ENT-136,2026-10-21,Refactored code to eliminate technical debt. Much cleaner and modular now.,4,Positive,0.6
+ENT-137,2026-10-22,Enjoyed a weekend break with family. Feeling recharged and ready for the week.,5,Positive,0.86
+ENT-138,2026-10-23,"Missed morning bus, arrived late to class. Started the day on the wrong foot.",2,Negative,-0.5
+ENT-139,2026-10-24,Trained a random forest model that achieved 91% accuracy on student test data.,5,Positive,0.9
+ENT-140,2026-10-25,Ordinary study session. Solved 3 LeetCode problems on arrays and hashing.,3,Neutral,0.2
+ENT-141,2026-10-26,Finished implementing the computer vision model today! Very happy with the results.,5,Positive,0.85
+ENT-142,2026-10-27,Feeling overwhelmed by midterms preparation and two assignment deadlines tomorrow.,2,Negative,-0.62
+ENT-143,2026-10-28,Went for an evening walk at the riverfront. Feeling peaceful and relaxed.,4,Positive,0.72
+ENT-144,2026-10-29,"Attended morning database lectures. Standard concepts covered, nothing surprising.",3,Neutral,0.05
+ENT-145,2026-10-30,Bug in the database query took four hours to track down. Frustrated but finally resolved.,2,Negative,-0.45
+ENT-146,2026-10-31,Great hackathon team sync tonight! We finalized our prototype architecture and roles.,5,Positive,0.88
+ENT-147,2026-11-01,Woke up tired today. Need to catch up on sleep this weekend.,2,Negative,-0.35
+ENT-148,2026-11-02,Read two chapters on discrete mathematics. Practiced 10 problem sets.,4,Positive,0.4
+ENT-149,2026-11-03,Anxious about upcoming project viva next Monday. Practicing talking points out loud.,2,Negative,-0.55
+ENT-150,2026-11-04,Cleaned up my GitHub repositories and wrote unit tests for the attendance system.,5,Positive,0.82
+ENT-151,2026-11-05,Rainy day in Ahmedabad. Had hot tea and reviewed algorithm notes quietly.,4,Positive,0.65
+ENT-152,2026-11-06,Group partner did not submit their frontend module on time. Annoying delay.,2,Negative,-0.58
+ENT-153,2026-11-07,Received full marks on the Python data structures practical lab!,5,Positive,0.92
+ENT-154,2026-11-08,Regular college day. Worked on library study assignments for two hours.,3,Neutral,0.1
+ENT-155,2026-11-09,Could not concentrate on coding today. Brain fog and low energy.,1,Negative,-0.7
+ENT-156,2026-11-10,Refactored code to eliminate technical debt. Much cleaner and modular now.,4,Positive,0.6
+ENT-157,2026-11-11,Enjoyed a weekend break with family. Feeling recharged and ready for the week.,5,Positive,0.86
+ENT-158,2026-11-12,"Missed morning bus, arrived late to class. Started the day on the wrong foot.",2,Negative,-0.5
+ENT-159,2026-11-13,Trained a random forest model that achieved 91% accuracy on student test data.,5,Positive,0.9
+ENT-160,2026-11-14,Ordinary study session. Solved 3 LeetCode problems on arrays and hashing.,3,Neutral,0.2
