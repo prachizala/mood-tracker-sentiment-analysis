@@ -122,8 +122,25 @@ with tab3:
     st.subheader("Archived Journal Entries")
     if os.path.exists(DATA_PATH):
         df_log = pd.read_csv(DATA_PATH)
-        filter_sent = st.selectbox("Filter by Sentiment Category:", ["All", "Positive", "Neutral", "Negative"])
-        if filter_sent != "All":
-            df_log = df_log[df_log["sentiment_label"] == filter_sent]
 
-        st.dataframe(df_log[["date", "journal_text", "mood_rating", "sentiment_label", "compound_score"]], use_container_width=True)
+        col_filter, col_dl = st.columns([2, 1])
+        with col_filter:
+            filter_sent = st.selectbox("Filter by Sentiment Category:", ["All", "Positive", "Neutral", "Negative"])
+        with col_dl:
+            st.write("")
+            st.write("")
+            csv_export = df_log.to_csv(index=False).encode("utf-8")
+            st.download_button(
+                label="📥 Download Journal History (CSV)",
+                data=csv_export,
+                file_name="mood_journal_history.csv",
+                mime="text/csv",
+                use_container_width=True
+            )
+
+        if filter_sent != "All":
+            df_display = df_log[df_log["sentiment_label"] == filter_sent]
+        else:
+            df_display = df_log
+
+        st.dataframe(df_display[["date", "journal_text", "mood_rating", "sentiment_label", "compound_score"]], use_container_width=True)

@@ -18,6 +18,7 @@ An interactive natural language processing (NLP) dashboard and student emotional
 - **Categorization & Guidance**: Automatically classifies reflections into *Joyful/Accomplished*, *Calm/Content*, *Balanced*, *Stressed/Fatigued*, and *Anxious/Overwhelmed*, offering actionable wellness advice.
 - **Interactive 60-Day Trajectory**: Rolling 7-day mood moving averages and emotion distribution charts built with Streamlit and Pandas.
 - **Historical Journal Log**: Filter and inspect prior reflections with tags, sentiment scores, and self-reported ratings.
+- **CSV Reflection Export**: Built-in 1-click export button (`st.download_button`) allowing users to download their complete 60-day reflection log with timestamps, mood ratings, and NLP polarity metrics.
 
 ---
 
